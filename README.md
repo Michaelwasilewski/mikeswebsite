@@ -14,8 +14,6 @@ to start the site use vscode live server
 
 ##### Heading 5
 
-````bash
-cosnt myName = "Michael";
+```bash
+const myName = "Michael";
 ```
-
-````
